@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Pavithiran Naguleswaran!
+- 👀 I’m interested in the world of software and web development!
+- 🌱 I’m currently learning programming languages such as smalltalk, rust, & react!
+- 💞️ I’m looking to collaborate on various projects & explore various programming languages!
+- 📫 You can reach me here @ --> https://www.linkedin.com/in/pavithiran-naguleswaran-03519120a/
